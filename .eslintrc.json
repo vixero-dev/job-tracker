@@ -26,9 +26,9 @@
               "@core": "src/app/core"
             },
             "extensions": [".ts", ".js", ".jsx", ".json"]
-          }
-        },
-        "typescript": {}
+          },
+          "typescript": {}
+        }
       },
       "rules": {
         "@angular-eslint/directive-selector": [
